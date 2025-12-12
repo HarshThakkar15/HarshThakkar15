@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi, I’m Harsh Thakkar 👋<br>🎓 Final-year B.Tech IT student passionate about Full Stack and Frontend Development.<br>💻 Skilled in building scalable and responsive web applications using React.js, Node.js, PHP, MySQL, and MongoDB.<br>🏆 Consistently ranked in the Top 3 of my IT department throughout all semesters.<br>🔒 Enthusiastic about Cybersecurity, with hands-on experience in Kali Linux, Nmap, and Wireshark.<br>📚 Strong foundation in DSA, OOP, DBMS, OS, and Computer Networks.<br>✨ Always eager to learn new technologies and apply them to real-world projects.
+Hi, I’m Harsh Thakkar 👋<br>💻 Passionate about Full Stack and Frontend Development, with experience in building scalable and responsive web applications using React.js, Node.js, PHP, MySQL and MongoDB.<br>🏆 Consistently ranked among the Top 3 performers in my IT department.<br>🔒 Enthusiast in Cybersecurity with hands-on experience in Kali Linux, Nmap and Wireshark.<br>📚 Strong understanding of DSA, OOP, DBMS, OS and CN.<br>✨ Always eager to learn new technologies and apply them to real-world projects.
 
 
 ## 🌐 Socials:
