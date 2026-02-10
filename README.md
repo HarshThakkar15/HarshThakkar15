@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi, I’m Harsh Thakkar 👋<br>💻 Passionate about Full Stack Development, with experience in building scalable and responsive web applications using React.js, Node.js, PHP, MySQL and MongoDB.<br>🔒 Enthusiast in Cybersecurity with hands-on experience in Kali Linux, Nmap and Wireshark.<br>📚 Strong understanding of DSA, OOP, DBMS, OS and CN.<br>✨ Always eager to learn new technologies and apply them to real-world projects.
+Hi, I’m Harsh Thakkar 👋<br>💻 Full Stack Developer Passionate about building scalable and responsive web applications using React.js, Node.js, PHP, MySQL and MongoDB.<br>🔒 Cybersecurity Enthusiast with hands-on experience in Kali Linux, Nmap and Wireshark.<br>✨ Always eager to learn new technologies and apply them to real-world projects.
 
 
 ## 🌐 Socials:
