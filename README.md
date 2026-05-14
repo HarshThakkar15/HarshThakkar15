@@ -61,7 +61,7 @@ I’m a **Full Stack Developer specializing in the MERN stack**, focused on buil
 
 <div align="center">
 
-<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HarshThakkar15&theme=tokyonight&hide_border=true&layout=compact"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HarshThakkar15&theme=tokyonight&hide_border=true&layout=compact"/>
 
 </div>
 
@@ -71,6 +71,3 @@ I’m a **Full Stack Developer specializing in the MERN stack**, focused on buil
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=HarshThakkar15&theme=react-dark&hide_border=true&area=true" width="100%"/>
 
-
-
-</div>
