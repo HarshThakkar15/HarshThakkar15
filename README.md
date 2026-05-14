@@ -8,6 +8,7 @@
 
 <br/>
 
+[![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)](https://harsh-thakkar-portfolio.vercel.app/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/harsh-thakkar1508) 
 [![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/harsh_thakkar_/)
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://instagram.com/harsh_thakkar_4) 
@@ -61,7 +62,7 @@ I’m a **Full Stack Developer specializing in the MERN stack**, focused on buil
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HarshThakkar15&theme=tokyonight&hide_border=true&layout=compact"/>
+<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HarshThakkar15&theme=tokyonight&hide_border=true&layout=compact" alt="Top Languages"/>
 
 </div>
 
@@ -69,5 +70,9 @@ I’m a **Full Stack Developer specializing in the MERN stack**, focused on buil
 
 ## ⚡ Activity Graph  
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=HarshThakkar15&theme=react-dark&hide_border=true&area=true" width="100%"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=HarshThakkar15&theme=react-dark&hide_border=true&area=true" width="100%" alt="Activity Graph"/>
 
+### 👀 Profile Views
+<img alt="Viewers" src="https://komarev.com/ghpvc/?username=HarshThakkar15&color=green&style=flat-square"/>
+
+<hr />
